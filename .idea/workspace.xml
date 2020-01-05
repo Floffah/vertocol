@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="745cbf30-0b3c-4712-8af6-f2006c45fd5d" name="Default Changelist" comment="" />
+    <list default="true" id="745cbf30-0b3c-4712-8af6-f2006c45fd5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -24,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -80,6 +86,7 @@
       <updated>1578249234105</updated>
       <workItem from="1578249237078" duration="220000" />
       <workItem from="1578249482299" duration="138000" />
+      <workItem from="1578250059197" duration="35000" />
     </task>
     <servers />
   </component>
@@ -87,6 +94,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="585" y="120" key="CommitChangelistDialog2" timestamp="1578250301853">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="585" y="120" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1578250301853" />
     <state x="461" y="168" key="SettingsEditor" timestamp="1578249457650">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
