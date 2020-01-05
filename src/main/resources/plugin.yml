@@ -1,0 +1,8 @@
+name: Vertocol
+version: ${project.version}
+main: me.floffah.vertocol.Main
+api-version: 1.13
+load: STARTUP
+authors: [Floffah]
+description: A way to let bedrock edition players join your java edition server.
+website: https://discord.gg/ysvCqXE
